@@ -1,0 +1,19 @@
+table {
+    width: 500px;
+    background-color: yellow;
+    text-align: left;
+}
+th {
+    font-size: 20px;
+    color: blue;
+    background-color: red;
+}
+.long {
+    width: 185px;
+}
+.big{
+    height: 50px;
+}
+.length_top{
+    margin-top: -15px;
+}
