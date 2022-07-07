@@ -1,0 +1,24 @@
+th {
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+}
+table {
+    width: 600px;
+    height: 200px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.name_blue {
+    color: blue;
+    text-align: right;
+}
+.name_orange {
+    color: darkorange;
+}
+.length_right {
+    margin-top: -50px;
+}
+.header_length {
+    width: 265px;
+}
